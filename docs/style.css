@@ -59,6 +59,7 @@ h2 {
   opacity: 0;
 }
 
+/* show 있을 때만 노출 */
 .loader.show {
   opacity: 1;
 }
